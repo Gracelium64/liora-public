@@ -1,1 +1,4 @@
-Use ZipSplit
+- Use ZipSplit, macOS only for now
+- You will need an embedding model for ingesting projects and documentation
+- This project is very far from production-ready state, keep that in mind
+- Version updates: what's in this repo is what I'm currently using
